@@ -1,0 +1,4 @@
+virtualization
+containerization
+orchesatration
+linux commands for devops
